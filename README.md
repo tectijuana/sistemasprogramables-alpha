@@ -5,7 +5,7 @@ sistemasprogramables-alpha created by GitHub Classroom
 
 
 
-| Integrantes | Parrticipación | Calificación |
+| Integrantes | Participación | Calificación |
 |-------------|----------------|--------------|
 | a           |                |              |
 | b           |                |              |
