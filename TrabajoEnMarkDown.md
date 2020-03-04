@@ -5,3 +5,4 @@
 | Termopar (tipo J y K) | Tri-Clamp         | Acero inoxidable maquinado  | TCS-S-M12                 |
 
 Esta es una tabla hecha en formato wiki sobre los sensores de temperatura.
+
