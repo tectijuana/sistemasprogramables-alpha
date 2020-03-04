@@ -8,6 +8,6 @@ Esta es una tabla hecha en formato wiki sobre los sensores de temperatura.
 
 | Termopares  |  RTD | Termistores  |  Infrarrojo |   |
 |---|---|---|---|---|
-| son los más utilizados en los dispositivos de medición de temperatura. Al estar conectados en pares, son simples y eficientes que dan salida a un voltaje DC muy pequeño proporcional a la diferencia de temperaturas entre dos juntas en un circuito termoeléctrico cerrado.|   | Miden la temperatura mediante la correlación de la resistencia del elemento del RTD con la temperatura. La mayoría de los RTD consiste en un pedazo de alambre enrollado bien envuelto con un núcleo de cerámica o vidrio alrededor.  |Usan electrodos internos que detectan el calor y lo miden a través de impulsos eléctricos. Dicho de otras palabras un termistor es un resistor sensible a la temperatura.
-| Los sensores de temperatura infrarrojos o sondas de temperatura por infrarrojos, son sensores para medida de temperatura sin contacto.  |   |   |   |   |
+| Son los más utilizados en los dispositivos de medición de temperatura. Al estar conectados en pares, son simples y eficientes que dan salida a un voltaje DC muy pequeño proporcional a la diferencia de temperaturas entre dos juntas en un circuito termoeléctrico cerrado.| Los sensores de temperatura infrarrojos o sondas de temperatura por infrarrojos, son sensores para medida de temperatura sin contacto.  |Usan electrodos internos que detectan el calor y lo miden a través de impulsos eléctricos. Dicho de otras palabras un termistor es un resistor sensible a la temperatura. |Los sensores de temperatura infrarrojos o sondas de temperatura por infrarrojos, son sensores para medida de temperatura sin contacto. 
+|  |   |   |   |   |
 |   |   |   |   |   |
