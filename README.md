@@ -6,7 +6,7 @@ sistemasprogramables-alpha created by GitHub Classroom
 
 | Integrantes | Participación | Calificación |
 |-------------|----------------|--------------|
-| a           |                |              |
+| Acuña Herrera Mario Alberto         |                |              |
 | b           |                |              |
 | c           |                |              |
 | d           |                |              |
