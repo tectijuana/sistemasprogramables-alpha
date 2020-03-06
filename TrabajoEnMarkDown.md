@@ -9,6 +9,22 @@ Esta es una tabla hecha en formato wiki sobre los sensores de temperatura.
 | Termopares  |  RTD | Termistores  |  Infrarrojo |   |
 |---|---|---|---|---|
 | Son los más utilizados en los dispositivos de medición de temperatura. Al estar conectados en pares, son simples y eficientes que dan salida a un voltaje DC muy pequeño proporcional a la diferencia de temperaturas entre dos juntas en un circuito termoeléctrico cerrado.| Los sensores de temperatura infrarrojos o sondas de temperatura por infrarrojos, son sensores para medida de temperatura sin contacto.  |Usan electrodos internos que detectan el calor y lo miden a través de impulsos eléctricos. Dicho de otras palabras un termistor es un resistor sensible a la temperatura. |Los sensores de temperatura infrarrojos o sondas de temperatura por infrarrojos, son sensores para medida de temperatura sin contacto. 
+
+Los termopares están disponibles en diferentes formatos que son adecuados para variadas aplicaciones de medición.
+
+    Tipo K (cromel/alumel): Amplia variedad de aplicaciones, está disponible a un bajo costo y en una variedad de sondas. El cromel es una aleación de Ni-Cr, y el alumel es una aleación de Ni-Al. Tienen un rango de temperatura de –200 °C a +1372 °C y una sensibilidad 41 µV/°C aproximadamente. Posee buena resistencia a la oxidación.
+    Tipo E (cromel/constantán [aleación de Cu-Ni]): no son magnéticos y gracias a su sensibilidad, son ideales para el uso en bajas temperaturas, en el ámbito criogénico. Tienen una sensibilidad de 68 µV/°C.
+    Tipo J (hierro/constantán): su rango de utilización es de –270/+1200 °C. Debido a sus características se recomienda su uso en atmósferas inertes, reductoras o en vacío, su uso continuado a 800 °C no presenta problemas, su principal inconveniente es la rápida oxidación que sufre el hierro por encima de 550 °C; y por debajo de 0 °C es necesario tomar precauciones a causa de la condensación de vapor de agua sobre el hierro.
+    Tipo T (cobre/constantán): ideales para mediciones entre -200 y 260 °C. Resisten atmósferas húmedas, reductoras y oxidantes y son aplicables en criogenia. El tipo termopar de T tiene una sensibilidad de cerca de 43 µV/°C.
+    Tipo N (nicrosil [Ni-Cr-Si]/nisil [Ni-Si]): es adecuado para mediciones de alta temperatura gracias a su elevada estabilidad y resistencia a la oxidación de altas temperaturas, y no necesita del platino utilizado en los tipos B, R y S, que son más caros.
+
+Por otro lado, los siguientes son los más estables, pero debido a su baja sensibilidad (10 µV/°C aprox.) generalmente son usados para medir altas temperaturas (superiores a 300 °C).
+
+    Tipo B (Pt-Rh): son adecuados para la medición de altas temperaturas superiores a 1800 °C. Los tipo B presentan el mismo resultado a 0 °C y 42 °C debido a su curva de temperatura/voltaje, limitando así su uso a temperaturas por encima de 50 °C.
+    Tipo R (Pt-Rh): adecuados para la medición de temperaturas de hasta 1300 °C. Su baja sensibilidad (10 µV/°C) y su elevado precio quitan su atractivo.
+    Tipo S (Pt/Rh): ideales para mediciones de altas temperaturas hasta los 1300 °C, pero su baja sensibilidad (10 µV/°C) y su elevado precio lo convierten en un instrumento no adecuado para el uso general. Debido a su elevada estabilidad, el tipo S es utilizado para la calibración universal del punto de fusión del oro (1064,43 °C).
+
+
 |  |   |   |   |   |
 |   |   |   |   |   |
 
