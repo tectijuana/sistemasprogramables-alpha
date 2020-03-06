@@ -10,6 +10,13 @@ Esta es una tabla hecha en formato wiki sobre los sensores de temperatura.
 |---|---|---|---|---|
 | Son los más utilizados en los dispositivos de medición de temperatura. Al estar conectados en pares, son simples y eficientes que dan salida a un voltaje DC muy pequeño proporcional a la diferencia de temperaturas entre dos juntas en un circuito termoeléctrico cerrado.| Los sensores de temperatura infrarrojos o sondas de temperatura por infrarrojos, son sensores para medida de temperatura sin contacto.  |Usan electrodos internos que detectan el calor y lo miden a través de impulsos eléctricos. Dicho de otras palabras un termistor es un resistor sensible a la temperatura. |Los sensores de temperatura infrarrojos o sondas de temperatura por infrarrojos, son sensores para medida de temperatura sin contacto. 
 
+|  |   |   |   |   |
+|   |   |   |   |   |
+
+## Termopares
+
+Los termopares son sensores utilizados para medir la temperatura. Estos consisten en dos patas de alambre hechas de diferentes metales, las cuales están soldadas juntas en un extremo, creando así una sola unión. En dicha unión es donde se mide la temperatura. Cuando esta última experimenta un cambio de temperatura, se crea un voltaje que puede interpretarse utilizando tablas de referencia para calcular el nivel térmico.
+
 Los termopares están disponibles en diferentes formatos que son adecuados para variadas aplicaciones de medición.
 
     Tipo K (cromel/alumel): Amplia variedad de aplicaciones, está disponible a un bajo costo y en una variedad de sondas. El cromel es una aleación de Ni-Cr, y el alumel es una aleación de Ni-Al. Tienen un rango de temperatura de –200 °C a +1372 °C y una sensibilidad 41 µV/°C aproximadamente. Posee buena resistencia a la oxidación.
@@ -22,15 +29,7 @@ Por otro lado, los siguientes son los más estables, pero debido a su baja sensi
 
     Tipo B (Pt-Rh): son adecuados para la medición de altas temperaturas superiores a 1800 °C. Los tipo B presentan el mismo resultado a 0 °C y 42 °C debido a su curva de temperatura/voltaje, limitando así su uso a temperaturas por encima de 50 °C.
     Tipo R (Pt-Rh): adecuados para la medición de temperaturas de hasta 1300 °C. Su baja sensibilidad (10 µV/°C) y su elevado precio quitan su atractivo.
-    Tipo S (Pt/Rh): ideales para mediciones de altas temperaturas hasta los 1300 °C, pero su baja sensibilidad (10 µV/°C) y su elevado precio lo convierten en un instrumento no adecuado para el uso general. Debido a su elevada estabilidad, el tipo S es utilizado para la calibración universal del punto de fusión del oro (1064,43 °C).
-
-
-|  |   |   |   |   |
-|   |   |   |   |   |
-
-## Termopares
-
-Los termopares son sensores utilizados para medir la temperatura. Estos consisten en dos patas de alambre hechas de diferentes metales, las cuales están soldadas juntas en un extremo, creando así una sola unión. En dicha unión es donde se mide la temperatura. Cuando esta última experimenta un cambio de temperatura, se crea un voltaje que puede interpretarse utilizando tablas de referencia para calcular el nivel térmico.
+    Tipo S (Pt/Rh): ideales para mediciones de altas temperaturas hasta los 1300 °C.Baja sensibilidad (10 µV/°C) y su elevado precio lo convierten en un instrumento no adecuado para el uso general. Debido a su elevada estabilidad, el tipo S es utilizado para la calibración universal del punto de fusión del oro (1064,43 °C).
 
 ## RTD
 
