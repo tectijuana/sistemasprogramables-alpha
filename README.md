@@ -7,6 +7,6 @@ sistemasprogramables-alpha created by GitHub Classroom
 | Integrantes | Participación | Calificación |
 |-------------|----------------|--------------|
 | Acuña Herrera Mario Alberto         |                |              |
-| b           |                |              |
+| Aceves Zamora Juan Antonio           |                |              |
 | c           |                |              |
-| Velarde Alvarez Luis Rafael |                |              |
+| d           |                |              |
