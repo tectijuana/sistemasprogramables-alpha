@@ -8,5 +8,5 @@ sistemasprogramables-alpha created by GitHub Classroom
 |-------------|----------------|--------------|
 | Acuña Herrera Mario Alberto         |                |              |
 | Aceves Zamora Juan Antonio           |                |              |
-| c           |                |              |
+| Victor Manuel Gastelum Coronado           |                |              |
 | d           |                |              |
