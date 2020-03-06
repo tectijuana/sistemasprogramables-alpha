@@ -9,4 +9,4 @@ sistemasprogramables-alpha created by GitHub Classroom
 | Acuña Herrera Mario Alberto         |                |              |
 | b           |                |              |
 | c           |                |              |
-| d           |                |              |
+| Velarde Alvarez Luis Rafael |                |              |
